@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "1",
+    "name": "Wireless Noise-Canceling Headphones",
+    "description": "Premium over-ear headphones with active noise cancellation and 30-hour battery life.",
+    "price": 299,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800",
+    "category": "Audio"
+  },
+  {
+    "_id": "2",
+    "name": "Mechanical Gaming Keyboard",
+    "description": "RGB backlit mechanical keyboard with tactile switches and durable aluminum frame.",
+    "price": 129,
+    "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=800",
+    "category": "Peripherals"
+  },
+  {
+    "_id": "3",
+    "name": "Ultra-Wide Curved Monitor 34\"",
+    "description": "144Hz 4K resolution curved display designed for immersive gaming and productivity.",
+    "price": 599,
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800",
+    "category": "Displays"
+  },
+  {
+    "_id": "4",
+    "name": "Minimalist Ergonomic Mouse",
+    "description": "Precision wireless mouse with customizable buttons and comfortable palm rest.",
+    "price": 79,
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=800",
+    "category": "Peripherals"
+  },
+  {
+    "_id": "5",
+    "name": "Smart Fitness Watch",
+    "description": "Track your workouts, heart rate, and sleep quality with a sleek AMOLED display.",
+    "price": 199,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800",
+    "category": "Wearables"
+  },
+  {
+    "_id": "6",
+    "name": "Portable Bluetooth Speaker",
+    "description": "Waterproof outdoor speaker with deep bass and 15 hours of continuous playtime.",
+    "price": 89,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800",
+    "category": "Audio"
+  }
+]

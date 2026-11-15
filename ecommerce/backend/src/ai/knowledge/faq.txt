@@ -1,0 +1,14 @@
+Q: How long does delivery take?
+A: Delivery normally takes 2 to 5 working days.
+
+Q: What is the return period?
+A: Customers can request a return within 7 days of receiving the product.
+
+Q: Can I ask about product availability?
+A: Yes. The chatbot can provide stock information from the product database.
+
+Q: Can the chatbot recommend products?
+A: Yes. Customers can tell the chatbot their budget and requirements.
+
+Q: What products does the store sell?
+A: The store sells smartphones, laptops, gaming accessories and other technology products.
